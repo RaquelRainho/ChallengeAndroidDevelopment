@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChallengeAndroidDevelopment</string>
+    <string name="other_cities">See weather for other cities</string>
+    <string name="current_location">Current Location</string>
+    <string name="details"><![CDATA[Details >]]></string>
+    <string name="more_details"><![CDATA[More details >]]></string>
+    <string name="no_permission">Location unavailable</string>
+    <string name="temp_min">Min: %dº</string>
+    <string name="temp_max">Max: %dº</string>
+    <string name="humidity">%d%%</string>
+    <string name="wind_speed">%.2f km/h</string>
+    <string name="weather_value">%dº</string>
+</resources>
